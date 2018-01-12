@@ -1,3 +1,3 @@
-last_known_moon = {601710: (6017, 10, 2017, 12, 20)}
-next_estimated_moon = {601711: (6017, 11, 2018, 1, 18)}
+last_known_moon = {601710: (6017, 10, 2017, 12, 20, True)}
+next_estimated_moon = {601711: (6017, 11, 2018, 1, 18, False)}
 aviv_barley = False

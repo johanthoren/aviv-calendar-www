@@ -1,3 +1,5 @@
-LAST_MOON = {602001: (6020, 1, 2020, 3, 25, True)}
-NEXT_MOON = {602002: (6020, 2, 2020, 4, 24, False)}
-AVIV_BARLEY = None
+{:year 6020
+ :start-of-year "2020-03-25"
+ :months-in-last-year 13
+ :start-of-months {1 "2020-03-25"}
+ :current-month 1}

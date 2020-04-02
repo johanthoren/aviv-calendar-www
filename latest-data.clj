@@ -1,0 +1,5 @@
+{:year 6020
+ :start-of-year "2020-03-25"
+ :months-in-last-year 13
+ :start-of-months {1 "2020-03-25"}
+ :current-month 1}
